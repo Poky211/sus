@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				734,
+				-78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "red sabo hey"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				810,
+				-173
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "red sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				564,
+				-60
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "red sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				430,
+				-85
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "red sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				510,
+				-190
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "red sing down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				650,
+				-170
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "idle",
+			"loop": false,
+			"name": "red idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/red",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "red",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		67,
+		67
+	],
+	"camera_position": [
+		-510,
+		280
+	],
+	"sing_duration": 10.8,
+	"scale": 0.7
+}

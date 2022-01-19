@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				829,
+				22
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "redbetter sabo hey",
+			"indices": []
+		},
+		{
+			"offsets": [
+				650,
+				-90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "redbetter idle"
+		},
+		{
+			"offsets": [
+				800,
+				-93
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "redbetter sing left"
+		},
+		{
+			"offsets": [
+				537,
+				-69
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "redbetter sing up"
+		},
+		{
+			"offsets": [
+				470,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "redbetter sing right"
+		},
+		{
+			"offsets": [
+				530,
+				-160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "redbetter sing down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/redbetter",
+	"position": [
+		0,
+		-40
+	],
+	"healthicon": "red",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		67,
+		67
+	],
+	"camera_position": [
+		-510,
+		130
+	],
+	"sing_duration": 10.8,
+	"scale": 0.7
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				771,
+				-109
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "redstressed sing left"
+		},
+		{
+			"offsets": [
+				494,
+				-30
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "redstressed sing up"
+		},
+		{
+			"offsets": [
+				530,
+				-115
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "redstressed sing right"
+		},
+		{
+			"offsets": [
+				500,
+				-120
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "redstressed sing down"
+		},
+		{
+			"offsets": [
+				690,
+				232
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "redstressed hey"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				500,
+				-100
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "redstressed idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/redstressed",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "redsad",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		67,
+		67
+	],
+	"camera_position": [
+		-400,
+		240
+	],
+	"sing_duration": 10.8,
+	"scale": 0.7
+}
