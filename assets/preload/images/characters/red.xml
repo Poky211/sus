@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="red.png"><SubTexture name="red idle0000" x="0" y="0" width="1432" height="762" frameX="0" frameY="0" frameWidth="1432" frameHeight="762" />
+<SubTexture name="red idle0001" x="1432" y="0" width="1432" height="762" frameX="0" frameY="0" frameWidth="1432" frameHeight="762" />
+<SubTexture name="red idle0002" x="2864" y="0" width="1432" height="762" frameX="0" frameY="0" frameWidth="1432" frameHeight="762" />
+<SubTexture name="red idle0003" x="4296" y="0" width="1432" height="762" frameX="0" frameY="0" frameWidth="1432" frameHeight="762" />
+<SubTexture name="red idle0004" x="5728" y="0" width="1432" height="762" frameX="0" frameY="0" frameWidth="1432" frameHeight="762" />
+<SubTexture name="red idle0005" x="7160" y="0" width="1432" height="762" frameX="0" frameY="0" frameWidth="1432" frameHeight="762" />
+<SubTexture name="red sing down0000" x="8592" y="0" width="1186" height="1040" frameX="0" frameY="0" frameWidth="1186" frameHeight="1040" />
+<SubTexture name="red sing down0001" x="0" y="1040" width="1186" height="1040" frameX="0" frameY="0" frameWidth="1186" frameHeight="1040" />
+<SubTexture name="red sing down0002" x="1186" y="1040" width="1186" height="1040" frameX="0" frameY="0" frameWidth="1186" frameHeight="1040" />
+<SubTexture name="red sing left0000" x="2372" y="1040" width="1519" height="827" frameX="0" frameY="0" frameWidth="1519" frameHeight="827" />
+<SubTexture name="red sing left0001" x="3891" y="1040" width="1519" height="827" frameX="0" frameY="0" frameWidth="1519" frameHeight="827" />
+<SubTexture name="red sing left0002" x="5410" y="1040" width="1519" height="827" frameX="0" frameY="0" frameWidth="1519" frameHeight="827" />
+<SubTexture name="red sing right0000" x="6929" y="1040" width="1388" height="1040" frameX="0" frameY="0" frameWidth="1388" frameHeight="1040" />
+<SubTexture name="red sing right0001" x="8317" y="1040" width="1388" height="1040" frameX="0" frameY="0" frameWidth="1388" frameHeight="1040" />
+<SubTexture name="red sing right0002" x="0" y="2080" width="1388" height="1040" frameX="0" frameY="0" frameWidth="1388" frameHeight="1040" />
+<SubTexture name="red sing up0000" x="1388" y="2080" width="1263" height="1002" frameX="0" frameY="0" frameWidth="1263" frameHeight="1002" />
+<SubTexture name="red sing up0001" x="2651" y="2080" width="1263" height="1002" frameX="0" frameY="0" frameWidth="1263" frameHeight="1002" />
+<SubTexture name="red sing up0002" x="3914" y="2080" width="1263" height="1002" frameX="0" frameY="0" frameWidth="1263" frameHeight="1002" />
+<SubTexture name="red sabo hey0000" x="5177" y="2080" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0001" x="6782" y="2080" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0002" x="8387" y="2080" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0003" x="0" y="3120" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0004" x="1605" y="3120" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0005" x="3210" y="3120" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0006" x="4815" y="3120" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0007" x="6420" y="3120" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0008" x="8025" y="3120" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0009" x="9630" y="3120" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0010" x="0" y="4105" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0011" x="1605" y="4105" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0012" x="3210" y="4105" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0013" x="4815" y="4105" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0014" x="6420" y="4105" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0015" x="8025" y="4105" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0016" x="9630" y="4105" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0017" x="0" y="5090" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0018" x="1605" y="5090" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0019" x="3210" y="5090" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0020" x="4815" y="5090" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0021" x="6420" y="5090" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0022" x="8025" y="5090" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0023" x="9630" y="5090" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0024" x="0" y="6075" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0025" x="1605" y="6075" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0026" x="3210" y="6075" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0027" x="4815" y="6075" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0028" x="6420" y="6075" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0029" x="8025" y="6075" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0030" x="9630" y="6075" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+<SubTexture name="red sabo hey0031" x="0" y="7060" width="1605" height="985" frameX="0" frameY="0" frameWidth="1605" frameHeight="985" />
+</TextureAtlas>

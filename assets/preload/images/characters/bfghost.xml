@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfghost.png"><SubTexture name="bfghost idle0000" x="0" y="0" width="1073" height="839" frameX="0" frameY="0" frameWidth="1073" frameHeight="839" />
+<SubTexture name="bfghost idle0001" x="1073" y="0" width="1073" height="839" frameX="0" frameY="0" frameWidth="1073" frameHeight="839" />
+<SubTexture name="bfghost idle0002" x="2146" y="0" width="1073" height="839" frameX="0" frameY="0" frameWidth="1073" frameHeight="839" />
+<SubTexture name="bfghost idle0003" x="3219" y="0" width="1073" height="839" frameX="0" frameY="0" frameWidth="1073" frameHeight="839" />
+<SubTexture name="bfghost idle0004" x="4292" y="0" width="1073" height="839" frameX="0" frameY="0" frameWidth="1073" frameHeight="839" />
+<SubTexture name="bfghost sing down0000" x="0" y="839" width="1073" height="839" frameX="0" frameY="0" frameWidth="1073" frameHeight="839" />
+<SubTexture name="bfghost sing down0001" x="1073" y="839" width="1073" height="839" frameX="0" frameY="0" frameWidth="1073" frameHeight="839" />
+<SubTexture name="bfghost sing left0000" x="2146" y="839" width="1073" height="839" frameX="0" frameY="0" frameWidth="1073" frameHeight="839" />
+<SubTexture name="bfghost sing left0001" x="3219" y="839" width="1073" height="839" frameX="0" frameY="0" frameWidth="1073" frameHeight="839" />
+<SubTexture name="bfghost sing right0000" x="4292" y="839" width="1073" height="839" frameX="0" frameY="0" frameWidth="1073" frameHeight="839" />
+<SubTexture name="bfghost sing right0001" x="0" y="1678" width="1073" height="839" frameX="0" frameY="0" frameWidth="1073" frameHeight="839" />
+<SubTexture name="bfghost sing up0000" x="1073" y="1678" width="1073" height="840" frameX="0" frameY="0" frameWidth="1073" frameHeight="840" />
+<SubTexture name="bfghost sing up0001" x="2146" y="1678" width="1073" height="840" frameX="0" frameY="0" frameWidth="1073" frameHeight="840" />
+<SubTexture name="bfghost hey0000" x="3219" y="1678" width="1073" height="839" frameX="0" frameY="0" frameWidth="1073" frameHeight="839" />
+<SubTexture name="bfghost hey0001" x="4292" y="1678" width="1073" height="839" frameX="0" frameY="0" frameWidth="1073" frameHeight="839" />
+<SubTexture name="bfghost hey0002" x="0" y="2518" width="1073" height="839" frameX="0" frameY="0" frameWidth="1073" frameHeight="839" />
+<SubTexture name="bfghost miss down0000" x="1073" y="2518" width="1073" height="839" frameX="0" frameY="0" frameWidth="1073" frameHeight="839" />
+<SubTexture name="bfghost miss down0001" x="2146" y="2518" width="1073" height="839" frameX="0" frameY="0" frameWidth="1073" frameHeight="839" />
+<SubTexture name="bfghost miss down0002" x="3219" y="2518" width="1073" height="839" frameX="0" frameY="0" frameWidth="1073" frameHeight="839" />
+<SubTexture name="bfghost miss left0000" x="4292" y="2518" width="1073" height="839" frameX="0" frameY="0" frameWidth="1073" frameHeight="839" />
+<SubTexture name="bfghost miss left0001" x="0" y="3357" width="1073" height="839" frameX="0" frameY="0" frameWidth="1073" frameHeight="839" />
+<SubTexture name="bfghost miss left0002" x="1073" y="3357" width="1073" height="839" frameX="0" frameY="0" frameWidth="1073" frameHeight="839" />
+<SubTexture name="bfghost miss right0000" x="2146" y="3357" width="1073" height="839" frameX="0" frameY="0" frameWidth="1073" frameHeight="839" />
+<SubTexture name="bfghost miss right0001" x="3219" y="3357" width="1073" height="839" frameX="0" frameY="0" frameWidth="1073" frameHeight="839" />
+<SubTexture name="bfghost miss right0002" x="4292" y="3357" width="1073" height="839" frameX="0" frameY="0" frameWidth="1073" frameHeight="839" />
+<SubTexture name="bfghost miss up0000" x="0" y="4196" width="1073" height="840" frameX="0" frameY="0" frameWidth="1073" frameHeight="840" />
+<SubTexture name="bfghost miss up0001" x="1073" y="4196" width="1073" height="840" frameX="0" frameY="0" frameWidth="1073" frameHeight="840" />
+<SubTexture name="bfghost miss up0002" x="2146" y="4196" width="1073" height="840" frameX="0" frameY="0" frameWidth="1073" frameHeight="840" />
+</TextureAtlas>
