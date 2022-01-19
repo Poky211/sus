@@ -1,22 +1,49 @@
 {
-	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+	"storyName": "polus",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "polus",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
 	"weekBefore": "tutorial",
-	"weekName": "Week 1",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"sussus-moogus",
+			"redcrew",
+			[
+				255,
+				140,
+				120
+			]
+		],
+		[
+			"sabotage",
+			"red",
+			[
+				255,
+				140,
+				120
+			]
+		],
+		[
+			"meltdown",
+			"redsad",
+			[
+				255,
+				140,
+				120
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Custom Week"
 }
