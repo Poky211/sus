@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="crewbop.png"><SubTexture name="crewbop bop0000" x="0" y="0" width="2086" height="1236" frameX="0" frameY="0" frameWidth="2086" frameHeight="1236" />
+<SubTexture name="crewbop bop0001" x="0" y="1236" width="2086" height="1236" frameX="0" frameY="0" frameWidth="2086" frameHeight="1236" />
+<SubTexture name="crewbop bop0002" x="0" y="2472" width="2086" height="1236" frameX="0" frameY="0" frameWidth="2086" frameHeight="1236" />
+<SubTexture name="crewbop bop0003" x="0" y="2472" width="2086" height="1236" frameX="0" frameY="0" frameWidth="2086" frameHeight="1236" />
+<SubTexture name="crewbop bop0004" x="0" y="2472" width="2086" height="1236" frameX="0" frameY="0" frameWidth="2086" frameHeight="1236" />
+<SubTexture name="crewbop bop0005" x="0" y="2472" width="2086" height="1236" frameX="0" frameY="0" frameWidth="2086" frameHeight="1236" />
+<SubTexture name="crewbop bop0006" x="0" y="2472" width="2086" height="1236" frameX="0" frameY="0" frameWidth="2086" frameHeight="1236" />
+<SubTexture name="crewbop bop0007" x="0" y="2472" width="2086" height="1236" frameX="0" frameY="0" frameWidth="2086" frameHeight="1236" />
+<SubTexture name="crewbop bop0008" x="0" y="2472" width="2086" height="1236" frameX="0" frameY="0" frameWidth="2086" frameHeight="1236" />
+<SubTexture name="crewbop bop0009" x="0" y="2472" width="2086" height="1236" frameX="0" frameY="0" frameWidth="2086" frameHeight="1236" />
+<SubTexture name="crewbop bop0010" x="0" y="2472" width="2086" height="1236" frameX="0" frameY="0" frameWidth="2086" frameHeight="1236" />
+<SubTexture name="crewbop bop0011" x="0" y="2472" width="2086" height="1236" frameX="0" frameY="0" frameWidth="2086" frameHeight="1236" />
+<SubTexture name="crewbop bop0012" x="0" y="2472" width="2086" height="1236" frameX="0" frameY="0" frameWidth="2086" frameHeight="1236" />
+</TextureAtlas>
