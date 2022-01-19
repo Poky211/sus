@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="redcrewnot.png"><SubTexture name="redcrewnot idle0000" x="0" y="0" width="1413" height="942" frameX="0" frameY="0" frameWidth="1413" frameHeight="942" />
+<SubTexture name="redcrewnot idle0001" x="1413" y="0" width="1413" height="942" frameX="0" frameY="0" frameWidth="1413" frameHeight="942" />
+<SubTexture name="redcrewnot idle0002" x="2826" y="0" width="1413" height="942" frameX="0" frameY="0" frameWidth="1413" frameHeight="942" />
+<SubTexture name="redcrewnot idle0003" x="4239" y="0" width="1413" height="942" frameX="0" frameY="0" frameWidth="1413" frameHeight="942" />
+<SubTexture name="redcrewnot idle0004" x="5652" y="0" width="1413" height="942" frameX="0" frameY="0" frameWidth="1413" frameHeight="942" />
+<SubTexture name="redcrewnot idle0005" x="7065" y="0" width="1413" height="942" frameX="0" frameY="0" frameWidth="1413" frameHeight="942" />
+<SubTexture name="redcrewnot idle0006" x="0" y="942" width="1413" height="942" frameX="0" frameY="0" frameWidth="1413" frameHeight="942" />
+<SubTexture name="redcrewnot idle0007" x="1413" y="942" width="1413" height="942" frameX="0" frameY="0" frameWidth="1413" frameHeight="942" />
+<SubTexture name="redcrewnot sing down0000" x="2826" y="942" width="1349" height="976" frameX="0" frameY="0" frameWidth="1349" frameHeight="976" />
+<SubTexture name="redcrewnot sing down0001" x="4175" y="942" width="1349" height="976" frameX="0" frameY="0" frameWidth="1349" frameHeight="976" />
+<SubTexture name="redcrewnot sing down0002" x="5524" y="942" width="1349" height="976" frameX="0" frameY="0" frameWidth="1349" frameHeight="976" />
+<SubTexture name="redcrewnot sing down0003" x="6873" y="942" width="1349" height="976" frameX="0" frameY="0" frameWidth="1349" frameHeight="976" />
+<SubTexture name="redcrewnot sing down0004" x="0" y="1918" width="1349" height="976" frameX="0" frameY="0" frameWidth="1349" frameHeight="976" />
+<SubTexture name="redcrewnot sing down0005" x="1349" y="1918" width="1349" height="976" frameX="0" frameY="0" frameWidth="1349" frameHeight="976" />
+<SubTexture name="redcrewnot sing down0006" x="2698" y="1918" width="1349" height="976" frameX="0" frameY="0" frameWidth="1349" frameHeight="976" />
+<SubTexture name="redcrewnot sing down0007" x="4047" y="1918" width="1349" height="976" frameX="0" frameY="0" frameWidth="1349" frameHeight="976" />
+<SubTexture name="redcrewnot sing left0000" x="5396" y="1918" width="1490" height="904" frameX="0" frameY="0" frameWidth="1490" frameHeight="904" />
+<SubTexture name="redcrewnot sing left0001" x="6886" y="1918" width="1490" height="904" frameX="0" frameY="0" frameWidth="1490" frameHeight="904" />
+<SubTexture name="redcrewnot sing left0002" x="0" y="2894" width="1490" height="904" frameX="0" frameY="0" frameWidth="1490" frameHeight="904" />
+<SubTexture name="redcrewnot sing left0003" x="1490" y="2894" width="1490" height="904" frameX="0" frameY="0" frameWidth="1490" frameHeight="904" />
+<SubTexture name="redcrewnot sing left0004" x="2980" y="2894" width="1490" height="904" frameX="0" frameY="0" frameWidth="1490" frameHeight="904" />
+<SubTexture name="redcrewnot sing left0005" x="4470" y="2894" width="1490" height="904" frameX="0" frameY="0" frameWidth="1490" frameHeight="904" />
+<SubTexture name="redcrewnot sing left0006" x="5960" y="2894" width="1490" height="904" frameX="0" frameY="0" frameWidth="1490" frameHeight="904" />
+<SubTexture name="redcrewnot sing left0007" x="7450" y="2894" width="1490" height="904" frameX="0" frameY="0" frameWidth="1490" frameHeight="904" />
+<SubTexture name="redcrewnot sing right0000" x="0" y="3798" width="1566" height="950" frameX="0" frameY="0" frameWidth="1566" frameHeight="950" />
+<SubTexture name="redcrewnot sing right0001" x="1566" y="3798" width="1566" height="950" frameX="0" frameY="0" frameWidth="1566" frameHeight="950" />
+<SubTexture name="redcrewnot sing right0002" x="3132" y="3798" width="1566" height="950" frameX="0" frameY="0" frameWidth="1566" frameHeight="950" />
+<SubTexture name="redcrewnot sing right0003" x="4698" y="3798" width="1566" height="950" frameX="0" frameY="0" frameWidth="1566" frameHeight="950" />
+<SubTexture name="redcrewnot sing right0004" x="6264" y="3798" width="1566" height="950" frameX="0" frameY="0" frameWidth="1566" frameHeight="950" />
+<SubTexture name="redcrewnot sing right0005" x="7830" y="3798" width="1566" height="950" frameX="0" frameY="0" frameWidth="1566" frameHeight="950" />
+<SubTexture name="redcrewnot sing right0006" x="0" y="4748" width="1566" height="950" frameX="0" frameY="0" frameWidth="1566" frameHeight="950" />
+<SubTexture name="redcrewnot sing right0007" x="1566" y="4748" width="1566" height="950" frameX="0" frameY="0" frameWidth="1566" frameHeight="950" />
+<SubTexture name="redcrewnot sing up0000" x="3132" y="4748" width="1332" height="1019" frameX="0" frameY="0" frameWidth="1332" frameHeight="1019" />
+<SubTexture name="redcrewnot sing up0001" x="4464" y="4748" width="1332" height="1019" frameX="0" frameY="0" frameWidth="1332" frameHeight="1019" />
+<SubTexture name="redcrewnot sing up0002" x="5796" y="4748" width="1332" height="1019" frameX="0" frameY="0" frameWidth="1332" frameHeight="1019" />
+<SubTexture name="redcrewnot sing up0003" x="7128" y="4748" width="1332" height="1019" frameX="0" frameY="0" frameWidth="1332" frameHeight="1019" />
+<SubTexture name="redcrewnot sing up0004" x="0" y="5767" width="1332" height="1019" frameX="0" frameY="0" frameWidth="1332" frameHeight="1019" />
+<SubTexture name="redcrewnot sing up0005" x="1332" y="5767" width="1332" height="1019" frameX="0" frameY="0" frameWidth="1332" frameHeight="1019" />
+<SubTexture name="redcrewnot sing up0006" x="2664" y="5767" width="1332" height="1019" frameX="0" frameY="0" frameWidth="1332" frameHeight="1019" />
+<SubTexture name="redcrewnot sing up0007" x="3996" y="5767" width="1332" height="1019" frameX="0" frameY="0" frameWidth="1332" frameHeight="1019" />
+</TextureAtlas>

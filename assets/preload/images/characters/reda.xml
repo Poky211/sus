@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="reda.png"><SubTexture name="reda idle0000" x="0" y="0" width="1271" height="865" frameX="0" frameY="0" frameWidth="1271" frameHeight="865" />
+<SubTexture name="reda idle0001" x="1271" y="0" width="1271" height="865" frameX="0" frameY="0" frameWidth="1271" frameHeight="865" />
+<SubTexture name="reda idle0002" x="2542" y="0" width="1271" height="865" frameX="0" frameY="0" frameWidth="1271" frameHeight="865" />
+<SubTexture name="reda idle0003" x="0" y="865" width="1271" height="865" frameX="0" frameY="0" frameWidth="1271" frameHeight="865" />
+<SubTexture name="reda idle0004" x="1271" y="865" width="1271" height="865" frameX="0" frameY="0" frameWidth="1271" frameHeight="865" />
+<SubTexture name="reda idle0005" x="2542" y="865" width="1271" height="865" frameX="0" frameY="0" frameWidth="1271" frameHeight="865" />
+<SubTexture name="reda idle0006" x="0" y="1730" width="1271" height="865" frameX="0" frameY="0" frameWidth="1271" frameHeight="865" />
+<SubTexture name="reda shoot0000" x="1271" y="1730" width="1612" height="905" frameX="0" frameY="0" frameWidth="1612" frameHeight="905" />
+<SubTexture name="reda shoot0001" x="2883" y="1730" width="1612" height="905" frameX="0" frameY="0" frameWidth="1612" frameHeight="905" />
+<SubTexture name="reda shoot0002" x="0" y="2635" width="1612" height="905" frameX="0" frameY="0" frameWidth="1612" frameHeight="905" />
+<SubTexture name="reda shoot0003" x="1612" y="2635" width="1612" height="905" frameX="0" frameY="0" frameWidth="1612" frameHeight="905" />
+<SubTexture name="reda shoot0004" x="3224" y="2635" width="1612" height="905" frameX="0" frameY="0" frameWidth="1612" frameHeight="905" />
+</TextureAtlas>

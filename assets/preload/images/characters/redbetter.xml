@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="redbetter.png"><SubTexture name="redbetter sabo hey0000" x="0" y="0" width="1680" height="1224" frameX="0" frameY="0" frameWidth="1680" frameHeight="1224" />
+<SubTexture name="redbetter sabo hey0001" x="1680" y="0" width="1680" height="1224" frameX="0" frameY="0" frameWidth="1680" frameHeight="1224" />
+<SubTexture name="redbetter sabo hey0002" x="3360" y="0" width="1680" height="1224" frameX="0" frameY="0" frameWidth="1680" frameHeight="1224" />
+<SubTexture name="redbetter sabo hey0003" x="5040" y="0" width="1680" height="1224" frameX="0" frameY="0" frameWidth="1680" frameHeight="1224" />
+<SubTexture name="redbetter sabo hey0004" x="6720" y="0" width="1680" height="1224" frameX="0" frameY="0" frameWidth="1680" frameHeight="1224" />
+<SubTexture name="redbetter sabo hey0005" x="8400" y="0" width="1680" height="1224" frameX="0" frameY="0" frameWidth="1680" frameHeight="1224" />
+<SubTexture name="redbetter sabo hey0006" x="0" y="1224" width="1680" height="1224" frameX="0" frameY="0" frameWidth="1680" frameHeight="1224" />
+<SubTexture name="redbetter sabo hey0007" x="1680" y="1224" width="1680" height="1224" frameX="0" frameY="0" frameWidth="1680" frameHeight="1224" />
+<SubTexture name="redbetter sabo hey0008" x="3360" y="1224" width="1680" height="1224" frameX="0" frameY="0" frameWidth="1680" frameHeight="1224" />
+<SubTexture name="redbetter sabo hey0009" x="5040" y="1224" width="1680" height="1224" frameX="0" frameY="0" frameWidth="1680" frameHeight="1224" />
+<SubTexture name="redbetter sabo hey0010" x="6720" y="1224" width="1680" height="1224" frameX="0" frameY="0" frameWidth="1680" frameHeight="1224" />
+<SubTexture name="redbetter sabo hey0011" x="8400" y="1224" width="1680" height="1224" frameX="0" frameY="0" frameWidth="1680" frameHeight="1224" />
+<SubTexture name="redbetter sabo hey0012" x="0" y="2448" width="1680" height="1224" frameX="0" frameY="0" frameWidth="1680" frameHeight="1224" />
+<SubTexture name="redbetter sabo hey0013" x="1680" y="2448" width="1680" height="1224" frameX="0" frameY="0" frameWidth="1680" frameHeight="1224" />
+<SubTexture name="redbetter sabo hey0014" x="3360" y="2448" width="1680" height="1224" frameX="0" frameY="0" frameWidth="1680" frameHeight="1224" />
+<SubTexture name="redbetter sabo hey0015" x="5040" y="2448" width="1680" height="1224" frameX="0" frameY="0" frameWidth="1680" frameHeight="1224" />
+<SubTexture name="redbetter sabo hey0016" x="6720" y="2448" width="1680" height="1224" frameX="0" frameY="0" frameWidth="1680" frameHeight="1224" />
+<SubTexture name="redbetter sabo hey0017" x="8400" y="2448" width="1680" height="1224" frameX="0" frameY="0" frameWidth="1680" frameHeight="1224" />
+<SubTexture name="redbetter sabo hey0018" x="0" y="3672" width="1680" height="1224" frameX="0" frameY="0" frameWidth="1680" frameHeight="1224" />
+<SubTexture name="redbetter sabo hey0019" x="1680" y="3672" width="1680" height="1224" frameX="0" frameY="0" frameWidth="1680" frameHeight="1224" />
+<SubTexture name="redbetter sabo hey0020" x="3360" y="3672" width="1680" height="1224" frameX="0" frameY="0" frameWidth="1680" frameHeight="1224" />
+<SubTexture name="redbetter sabo hey0021" x="5040" y="3672" width="1680" height="1224" frameX="0" frameY="0" frameWidth="1680" frameHeight="1224" />
+<SubTexture name="redbetter sabo hey0022" x="6720" y="3672" width="1680" height="1224" frameX="0" frameY="0" frameWidth="1680" frameHeight="1224" />
+<SubTexture name="redbetter sabo hey0023" x="8400" y="3672" width="1680" height="1224" frameX="0" frameY="0" frameWidth="1680" frameHeight="1224" />
+<SubTexture name="redbetter sabo hey0024" x="0" y="4896" width="1680" height="1224" frameX="0" frameY="0" frameWidth="1680" frameHeight="1224" />
+<SubTexture name="redbetter sabo hey0025" x="1680" y="4896" width="1680" height="1224" frameX="0" frameY="0" frameWidth="1680" frameHeight="1224" />
+<SubTexture name="redbetter idle0000" x="3360" y="4896" width="1491" height="931" frameX="0" frameY="0" frameWidth="1491" frameHeight="931" />
+<SubTexture name="redbetter idle0001" x="4851" y="4896" width="1491" height="931" frameX="0" frameY="0" frameWidth="1491" frameHeight="931" />
+<SubTexture name="redbetter idle0002" x="4851" y="4896" width="1491" height="931" frameX="0" frameY="0" frameWidth="1491" frameHeight="931" />
+<SubTexture name="redbetter idle0003" x="4851" y="4896" width="1491" height="931" frameX="0" frameY="0" frameWidth="1491" frameHeight="931" />
+<SubTexture name="redbetter idle0004" x="6342" y="4896" width="1491" height="931" frameX="0" frameY="0" frameWidth="1491" frameHeight="931" />
+<SubTexture name="redbetter idle0005" x="6342" y="4896" width="1491" height="931" frameX="0" frameY="0" frameWidth="1491" frameHeight="931" />
+<SubTexture name="redbetter idle0006" x="7833" y="4896" width="1491" height="931" frameX="0" frameY="0" frameWidth="1491" frameHeight="931" />
+<SubTexture name="redbetter idle0007" x="0" y="6120" width="1491" height="931" frameX="0" frameY="0" frameWidth="1491" frameHeight="931" />
+<SubTexture name="redbetter idle0008" x="1491" y="6120" width="1491" height="931" frameX="0" frameY="0" frameWidth="1491" frameHeight="931" />
+<SubTexture name="redbetter sing down0000" x="2982" y="6120" width="1323" height="900" frameX="0" frameY="0" frameWidth="1323" frameHeight="900" />
+<SubTexture name="redbetter sing down0001" x="2982" y="6120" width="1323" height="900" frameX="0" frameY="0" frameWidth="1323" frameHeight="900" />
+<SubTexture name="redbetter sing down0002" x="2982" y="6120" width="1323" height="900" frameX="0" frameY="0" frameWidth="1323" frameHeight="900" />
+<SubTexture name="redbetter sing down0003" x="4305" y="6120" width="1323" height="900" frameX="0" frameY="0" frameWidth="1323" frameHeight="900" />
+<SubTexture name="redbetter sing down0004" x="4305" y="6120" width="1323" height="900" frameX="0" frameY="0" frameWidth="1323" frameHeight="900" />
+<SubTexture name="redbetter sing down0005" x="5628" y="6120" width="1323" height="900" frameX="0" frameY="0" frameWidth="1323" frameHeight="900" />
+<SubTexture name="redbetter sing left0000" x="6951" y="6120" width="1515" height="900" frameX="0" frameY="0" frameWidth="1515" frameHeight="900" />
+<SubTexture name="redbetter sing left0001" x="6951" y="6120" width="1515" height="900" frameX="0" frameY="0" frameWidth="1515" frameHeight="900" />
+<SubTexture name="redbetter sing left0002" x="6951" y="6120" width="1515" height="900" frameX="0" frameY="0" frameWidth="1515" frameHeight="900" />
+<SubTexture name="redbetter sing left0003" x="0" y="7051" width="1515" height="900" frameX="0" frameY="0" frameWidth="1515" frameHeight="900" />
+<SubTexture name="redbetter sing left0004" x="0" y="7051" width="1515" height="900" frameX="0" frameY="0" frameWidth="1515" frameHeight="900" />
+<SubTexture name="redbetter sing left0005" x="1515" y="7051" width="1515" height="900" frameX="0" frameY="0" frameWidth="1515" frameHeight="900" />
+<SubTexture name="redbetter sing right0000" x="3030" y="7051" width="1531" height="1004" frameX="0" frameY="0" frameWidth="1531" frameHeight="1004" />
+<SubTexture name="redbetter sing right0001" x="3030" y="7051" width="1531" height="1004" frameX="0" frameY="0" frameWidth="1531" frameHeight="1004" />
+<SubTexture name="redbetter sing right0002" x="3030" y="7051" width="1531" height="1004" frameX="0" frameY="0" frameWidth="1531" frameHeight="1004" />
+<SubTexture name="redbetter sing right0003" x="4561" y="7051" width="1531" height="1004" frameX="0" frameY="0" frameWidth="1531" frameHeight="1004" />
+<SubTexture name="redbetter sing right0004" x="4561" y="7051" width="1531" height="1004" frameX="0" frameY="0" frameWidth="1531" frameHeight="1004" />
+<SubTexture name="redbetter sing right0005" x="6092" y="7051" width="1531" height="1004" frameX="0" frameY="0" frameWidth="1531" frameHeight="1004" />
+<SubTexture name="redbetter sing up0000" x="7623" y="7051" width="1390" height="928" frameX="0" frameY="0" frameWidth="1390" frameHeight="928" />
+<SubTexture name="redbetter sing up0001" x="7623" y="7051" width="1390" height="928" frameX="0" frameY="0" frameWidth="1390" frameHeight="928" />
+<SubTexture name="redbetter sing up0002" x="7623" y="7051" width="1390" height="928" frameX="0" frameY="0" frameWidth="1390" frameHeight="928" />
+<SubTexture name="redbetter sing up0003" x="0" y="8055" width="1390" height="928" frameX="0" frameY="0" frameWidth="1390" frameHeight="928" />
+<SubTexture name="redbetter sing up0004" x="0" y="8055" width="1390" height="928" frameX="0" frameY="0" frameWidth="1390" frameHeight="928" />
+<SubTexture name="redbetter sing up0005" x="1390" y="8055" width="1390" height="928" frameX="0" frameY="0" frameWidth="1390" frameHeight="928" />
+</TextureAtlas>

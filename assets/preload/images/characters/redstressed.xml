@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="redstressed.png"><SubTexture name="redstressed idle0000" x="0" y="0" width="1255" height="904" frameX="0" frameY="0" frameWidth="1255" frameHeight="904" />
+<SubTexture name="redstressed idle0001" x="1255" y="0" width="1255" height="904" frameX="0" frameY="0" frameWidth="1255" frameHeight="904" />
+<SubTexture name="redstressed idle0002" x="2510" y="0" width="1255" height="904" frameX="0" frameY="0" frameWidth="1255" frameHeight="904" />
+<SubTexture name="redstressed idle0003" x="3765" y="0" width="1255" height="904" frameX="0" frameY="0" frameWidth="1255" frameHeight="904" />
+<SubTexture name="redstressed idle0004" x="5020" y="0" width="1255" height="904" frameX="0" frameY="0" frameWidth="1255" frameHeight="904" />
+<SubTexture name="redstressed idle0005" x="0" y="904" width="1255" height="904" frameX="0" frameY="0" frameWidth="1255" frameHeight="904" />
+<SubTexture name="redstressed idle0006" x="1255" y="904" width="1255" height="904" frameX="0" frameY="0" frameWidth="1255" frameHeight="904" />
+<SubTexture name="redstressed sing down0000" x="2510" y="904" width="1416" height="995" frameX="0" frameY="0" frameWidth="1416" frameHeight="995" />
+<SubTexture name="redstressed sing down0001" x="3926" y="904" width="1416" height="995" frameX="0" frameY="0" frameWidth="1416" frameHeight="995" />
+<SubTexture name="redstressed sing down0002" x="5342" y="904" width="1416" height="995" frameX="0" frameY="0" frameWidth="1416" frameHeight="995" />
+<SubTexture name="redstressed sing left0000" x="0" y="1899" width="1479" height="904" frameX="0" frameY="0" frameWidth="1479" frameHeight="904" />
+<SubTexture name="redstressed sing left0001" x="1479" y="1899" width="1479" height="904" frameX="0" frameY="0" frameWidth="1479" frameHeight="904" />
+<SubTexture name="redstressed sing left0002" x="2958" y="1899" width="1479" height="904" frameX="0" frameY="0" frameWidth="1479" frameHeight="904" />
+<SubTexture name="redstressed sing right0000" x="4437" y="1899" width="1519" height="887" frameX="0" frameY="0" frameWidth="1519" frameHeight="887" />
+<SubTexture name="redstressed sing right0001" x="5956" y="1899" width="1519" height="887" frameX="0" frameY="0" frameWidth="1519" frameHeight="887" />
+<SubTexture name="redstressed sing right0002" x="0" y="2803" width="1519" height="887" frameX="0" frameY="0" frameWidth="1519" frameHeight="887" />
+<SubTexture name="redstressed sing up0000" x="1519" y="2803" width="1196" height="1015" frameX="0" frameY="0" frameWidth="1196" frameHeight="1015" />
+<SubTexture name="redstressed sing up0001" x="2715" y="2803" width="1196" height="1015" frameX="0" frameY="0" frameWidth="1196" frameHeight="1015" />
+<SubTexture name="redstressed sing up0002" x="3911" y="2803" width="1196" height="1015" frameX="0" frameY="0" frameWidth="1196" frameHeight="1015" />
+<SubTexture name="redstressed hey0000" x="5107" y="2803" width="1732" height="1799" frameX="0" frameY="0" frameWidth="1732" frameHeight="1799" />
+<SubTexture name="redstressed hey0001" x="0" y="4602" width="1732" height="1799" frameX="0" frameY="0" frameWidth="1732" frameHeight="1799" />
+<SubTexture name="redstressed hey0002" x="1732" y="4602" width="1732" height="1799" frameX="0" frameY="0" frameWidth="1732" frameHeight="1799" />
+<SubTexture name="redstressed hey0003" x="3464" y="4602" width="1732" height="1799" frameX="0" frameY="0" frameWidth="1732" frameHeight="1799" />
+<SubTexture name="redstressed hey0004" x="5196" y="4602" width="1732" height="1799" frameX="0" frameY="0" frameWidth="1732" frameHeight="1799" />
+<SubTexture name="redstressed hey0005" x="6928" y="4602" width="1732" height="1799" frameX="0" frameY="0" frameWidth="1732" frameHeight="1799" />
+</TextureAtlas>
