@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "redcrew",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "alright. time to do keys!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bro why you doin' keys. common tasks are off in this round"
+		},
+		{
+			"speed": 0.015,
+			"portrait": "redcrew",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "oh uhh hi! hi- um well i was uhhhh. n-no i wasnt faking tasks, what? no th- you- you must be seeing things! y-yeah you- you must be seeing things!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "u are very sus"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "redcrew",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "n-no im not. i-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "rap battle or i'll tell everyone you did keys"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "redcrew",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "alright, im pretty good at music"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "then rap"
+		}
+	]
+}
